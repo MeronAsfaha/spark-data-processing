@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Feb 06 20:21:38 CST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-018d-815e-eeb0-0000164e5588 
+on database directory C:\Users\Meron\AppData\Local\Temp\spark-685e83f1-b525-44f2-9718-602a9606f6d5\metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/Meron/.m2/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Temurin
+java.runtime.version=1.8.0_402-b06
+user.dir=C:\Users\Meron\OneDrive\Desktop\springboot-ws-client
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

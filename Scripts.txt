@@ -1,0 +1,5 @@
+# Start Thrift Server
+/usr/lib/spark/sbin/start-thriftserver.sh
+
+#Run Spark SQL to save to Hive Table
+spark-submit --class com.HiveSpark --master yarn file:///home/cloudera/workspace/SparkWC-0.0.1-SNAPSHOT.jar 
